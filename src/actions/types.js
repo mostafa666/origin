@@ -1,0 +1,3 @@
+export const HANDLEWIDTH = 'HANDLEWIDTH';
+export const HANDLELEFT = 'HANDLELEFT';
+export const SETLEFTZERO = 'SETLEFTZERO';
